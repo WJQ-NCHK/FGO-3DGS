@@ -1,0 +1,2 @@
+import diff_gaussian_rasterization._C
+print(dir(diff_gaussian_rasterization._C))
